@@ -11,6 +11,7 @@ export default function count() {
         <>
             <button onClick={() => setCount((count) => count + 1)}></button>
             <h1>Count: {count}</h1>
+            <h1>Count: {count}</h1>
         </>
     )
 }
